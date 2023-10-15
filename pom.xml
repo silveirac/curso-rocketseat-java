@@ -15,7 +15,7 @@
 	<name>todolist</name>
 	<description>Gerenciador de tarefas</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
